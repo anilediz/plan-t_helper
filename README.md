@@ -24,6 +24,10 @@ Sistemin dosyaları İngilizce yazılmıştır, çünkü bütün modeller onlar�
 6. agentic/PLANNER.md metnini sohbet asistanının proje talimatlarına (custom instructions) yapıştır.
 7. Commit et.
 
+## İlk oturum
+
+Kurulumdan sonra ilk oturum olarak pilot/PILOT-01-verify-project-facts.md dosyasındaki adımları izle. Kodda hiçbir şey değişmez; sistemin çalıştığını ve proje bilgilerinin doğru olduğunu gösterir.
+
 ## Güncelleme (yeni sürüm)
 
 1. agentic/ içinde core/'dan gelen dosyaları (CORE.md, PLANNER.md, CORE-CHANGELOG.md) yenileriyle değiştir.
