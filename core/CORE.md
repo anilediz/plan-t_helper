@@ -1,6 +1,6 @@
 # PLAN-T HELPER — AGENTIC CORE
 
-CORE VERSION: 1.2
+CORE VERSION: 1.3
 STATUS: LOCKED. Installed copy of plan-t_helper. Do not edit; updates arrive as a new plan-t_helper release, recorded in agentic/CORE-CHANGELOG.md.
 TARGET MODEL: model-agnostic. Advanced LLM coding agents and chat assistants (Codex, Claude Code, others). Validated against: none yet.
 REASONING_CAPABLE: true
@@ -24,7 +24,7 @@ Reason: rules that rarely change are kept apart from facts that change often, so
 You MUST NOT edit, rename, move or delete agentic/CORE.md, agentic/PLANNER.md or agentic/CORE-CHANGELOG.md, even when asked.
 If a request would require changing them, or acting against a rule in them:
 1. Stop that part of the work.
-2. Tell the user, in Turkish (see §12), that this is a critical CORE change, that CORE is maintained by the helper provider, and that he should contact the provider.
+2. Tell the user the CORE-change notice, using the exact Turkish wording in PROJECT.md §3.
 3. Record it under CORE CHANGE REQUESTS in the session file.
 4. Continue with any part of the task that does not depend on it.
 Reason: the core is shared by every agent and tool; a silent local edit makes agents behave differently without anyone noticing.

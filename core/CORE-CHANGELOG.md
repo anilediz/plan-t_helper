@@ -3,6 +3,29 @@
 Maintained by the helper provider. Entries are added only with a new plan-t_helper release.
 
 ────────────────────────────────────────
+VERSION: 1.3
+DATE: 2026-10-14
+BASE: 1.2
+PATCH COUNT: 6
+─────────────────────────────────────────────
+CORE.md — LAAS
+v1.3
+~ §2 CORE-change notice uses exact Turkish wording held in PROJECT.md §3
+─────────────────────────────────────────────
+PLANNER.md — LAAS
+v1.3
+~ Verdicts renamed accept / revise / decide internally; shown to the owner as the Turkish command words in PROJECT.md §3 (KABUL ET, REVİZE ET, KARAR VER)
+─────────────────────────────────────────────
+INSTALL.md — NEW
+v1.3
++ Agent-run install and update: first install vs update, never overwrite PROJECT.md or log, adapter merge, Turkish report
+★ The owner no longer copies files by hand; installation is delegated to the coding agent
+─────────────────────────────────────────────
+OPEN DEFECTS CARRIED FORWARD: enforcement is instruction-level only; no model validated
+DEPENDENCY NOTES: owner-facing Turkish strings live in PROJECT.md §3, not in CORE or PLANNER; README rewritten as a usage guide
+────────────────────────────────────────
+
+────────────────────────────────────────
 VERSION: 1.2
 DATE: 2026-10-14
 BASE: 1.1

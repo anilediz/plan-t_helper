@@ -4,11 +4,11 @@ Bu, sistemin ilk deneme oturumu. Kodda hiçbir şey değişmez; ajan yalnızca o
 
 ## Nasıl kullanılır
 
-1. Önce README'deki "İlk kurulum" adımlarını yap (agentic/ klasörü, AGENTS.md, CLAUDE.md).
+1. Önce README'deki "Kurulum" kısmındaki cümleyle sistemi Codex'e kurdur.
 2. Codex'te yeni bir oturum aç.
 3. Aşağıdaki brief bloğunu olduğu gibi kopyalayıp Codex'e yapıştır. Başına tek bir cümle ekleyebilirsin: "Bu brief ile bir oturum başlat."
 4. Ajanın önerdiği PROJECT.md değişikliklerini tek tek oku. Doğru olanlara "onaylıyorum" de; emin olmadıklarını reddet.
-5. Oturum bitince raporu sohbet asistanına (ChatGPT) yapıştır ve kararını iste.
+5. Oturum bitince raporu sohbet asistanına (ChatGPT) yapıştır. Sana KABUL ET, REVİZE ET ya da KARAR VER diye cevap verecek.
 
 ## Brief (Codex'e yapıştırılacak kısım)
 

@@ -13,9 +13,15 @@ Plan-t is the admin side of an eco-farm system: zones named on an uploaded map, 
 - A staff member can propose a change on the map; it is not applied without a manager's approval.
 - The activity-log schema is an owner decision, because later advice depends on it. Agents do not design it.
 
-## 3. Language
+## 3. Language and owner-facing wording
 
 - The owner is addressed only in Turkish; all files stay English (CORE §12). App UI text is Turkish.
+- Review verdicts (PLANNER), shown to the owner exactly as written:
+  - accept -> KABUL ET
+  - revise -> REVİZE ET
+  - decide -> KARAR VER
+- CORE-change notice (CORE §2, PLANNER), said to the owner exactly as written:
+  "Bu kritik bir CORE değişikliği. CORE'u yardımcının sağlayıcısı yönetiyor; lütfen sağlayıcıya haber ver."
 
 ## 4. Limits
 
