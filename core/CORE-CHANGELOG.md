@@ -3,6 +3,26 @@
 Maintained by the helper provider. Entries are added only with a new plan-t_helper release.
 
 ────────────────────────────────────────
+VERSION: 1.2
+DATE: 2026-10-14
+BASE: 1.1
+PATCH COUNT: 5
+─────────────────────────────────────────────
+CORE.md — LAAS
+v1.2
+~ §12 Language becomes a hard boundary: everything addressed to the project owner is Turkish; files, briefs, reports, logs, commits and internal reasoning stay English; new app UI text is Turkish
+~ §2 CORE-change notice delivered in Turkish
+★ Owner-facing language is no longer "the user's language" but fixed to Turkish
+─────────────────────────────────────────────
+PLANNER.md — LAAS
+v1.2
+~ Language: owner-facing Turkish only; briefs English; verdict word English, explained in Turkish
+─────────────────────────────────────────────
+OPEN DEFECTS CARRIED FORWARD: enforcement is instruction-level only; no model validated; internal-reasoning language cannot be enforced by instruction on every model
+DEPENDENCY NOTES: project-template PROJECT.md gains Language and Installed rule sets sections; disabled-state fact corrected to the app's Turkish feature-flag pattern
+────────────────────────────────────────
+
+────────────────────────────────────────
 VERSION: 1.1
 DATE: 2026-10-14
 BASE: 1.0

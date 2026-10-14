@@ -28,4 +28,4 @@ PROPOSALS (not yet accepted):
 FOLLOW-UPS (not done):
 NEXT START POINT:
 
-## WHAT THIS MEANS FOR YOU (plain language, in the user's language)
+## WHAT THIS MEANS FOR YOU (plain language, written in Turkish)
